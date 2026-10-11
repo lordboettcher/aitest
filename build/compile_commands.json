@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/lordboettcher/RustProjects/AISECONDTRY/build",
+  "command": "/usr/sbin/i686-w64-mingw32-g++ -g -o CMakeFiles/0_MAIN.dir/src/main.cpp.o -c /home/lordboettcher/RustProjects/AISECONDTRY/src/main.cpp",
+  "file": "/home/lordboettcher/RustProjects/AISECONDTRY/src/main.cpp",
+  "output": "/home/lordboettcher/RustProjects/AISECONDTRY/build/CMakeFiles/0_MAIN.dir/src/main.cpp.o"
+}
+]
