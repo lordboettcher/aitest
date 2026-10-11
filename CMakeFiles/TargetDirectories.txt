@@ -1,3 +1,0 @@
-/home/lordboettcher/RustProjects/AISECONDTRY/CMakeFiles/0_MAIN.dir
-/home/lordboettcher/RustProjects/AISECONDTRY/CMakeFiles/edit_cache.dir
-/home/lordboettcher/RustProjects/AISECONDTRY/CMakeFiles/rebuild_cache.dir

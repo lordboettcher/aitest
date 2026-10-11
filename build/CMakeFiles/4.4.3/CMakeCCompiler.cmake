@@ -1,4 +1,4 @@
-set(CMAKE_C_COMPILER "/usr/sbin/cc")
+set(CMAKE_C_COMPILER "/usr/bin/gcc")
 set(CMAKE_C_COMPILER_ARG1 "")
 set(CMAKE_C_COMPILER_ID "GNU")
 set(CMAKE_C_COMPILER_VERSION "16.2.1")
@@ -24,11 +24,11 @@ set(CMAKE_C_COMPILER_ARCHITECTURE_ID "x86_64")
 
 
 
-set(CMAKE_AR "/usr/sbin/ar")
-set(CMAKE_C_COMPILER_AR "/usr/sbin/gcc-ar")
-set(CMAKE_RANLIB "/usr/sbin/ranlib")
-set(CMAKE_C_COMPILER_RANLIB "/usr/sbin/gcc-ranlib")
-set(CMAKE_LINKER "/usr/sbin/ld")
+set(CMAKE_AR "/usr/bin/ar")
+set(CMAKE_C_COMPILER_AR "/usr/bin/gcc-ar")
+set(CMAKE_RANLIB "/usr/bin/ranlib")
+set(CMAKE_C_COMPILER_RANLIB "/usr/bin/gcc-ranlib")
+set(CMAKE_LINKER "/usr/bin/ld")
 set(CMAKE_LINKER_LINK "")
 set(CMAKE_LINKER_LLD "")
 set(CMAKE_C_COMPILER_LINKER "/usr/sbin/ld")

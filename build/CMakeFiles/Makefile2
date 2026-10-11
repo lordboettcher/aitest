@@ -57,7 +57,7 @@ EQUALS = =
 CMAKE_SOURCE_DIR = /home/lordboettcher/RustProjects/AISECONDTRY
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/lordboettcher/RustProjects/AISECONDTRY
+CMAKE_BINARY_DIR = /home/lordboettcher/RustProjects/AISECONDTRY/build
 
 #=============================================================================
 # Directory level rules for the build root directory
@@ -85,14 +85,14 @@ clean: CMakeFiles/0_MAIN.dir/clean
 CMakeFiles/0_MAIN.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/0_MAIN.dir/build.make CMakeFiles/0_MAIN.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/0_MAIN.dir/build.make CMakeFiles/0_MAIN.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/lordboettcher/RustProjects/AISECONDTRY/CMakeFiles --progress-num=1,2 "Built target 0_MAIN"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/lordboettcher/RustProjects/AISECONDTRY/build/CMakeFiles --progress-num=1,2 "Built target 0_MAIN"
 .PHONY : CMakeFiles/0_MAIN.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/0_MAIN.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/lordboettcher/RustProjects/AISECONDTRY/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/lordboettcher/RustProjects/AISECONDTRY/build/CMakeFiles 2
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/0_MAIN.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/lordboettcher/RustProjects/AISECONDTRY/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/lordboettcher/RustProjects/AISECONDTRY/build/CMakeFiles 0
 .PHONY : CMakeFiles/0_MAIN.dir/rule
 
 # Convenience name for target.
@@ -102,7 +102,7 @@ CMakeFiles/0_MAIN.dir/rule: cmake_check_build_system
 # codegen rule for target.
 CMakeFiles/0_MAIN.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/0_MAIN.dir/build.make CMakeFiles/0_MAIN.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/lordboettcher/RustProjects/AISECONDTRY/CMakeFiles --progress-num=1,2 "Finished codegen for target 0_MAIN"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/lordboettcher/RustProjects/AISECONDTRY/build/CMakeFiles --progress-num=1,2 "Finished codegen for target 0_MAIN"
 .PHONY : CMakeFiles/0_MAIN.dir/codegen
 
 # clean rule for target.
